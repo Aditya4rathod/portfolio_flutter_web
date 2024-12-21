@@ -59715,7 +59715,7 @@ PH(a){$.a9e().m(0,this,a)}}
 A.DJ.prototype={
 N(a){return new A.vw(new A.W8(),B.Bb,!0,!0,A.bv(a,null,t.w).w.a,null)}}
 A.W8.prototype={
-$2(a,b){return new A.m8(b,"Responsive Portfolio",A.afP(null,B.X,B.fw,B.X,A.aoi(B.OF.Yp($.N().bR(1))),null),!1,null)},
+$2(a,b){return new A.m8(b,"Aditya Rathod",A.afP(null,B.X,B.fw,B.X,A.aoi(B.OF.Yp($.N().bR(1))),null),!1,null)},
 $S:387}
 A.iG.prototype={}
 A.j_.prototype={}
@@ -59736,7 +59736,7 @@ s.K(this.gEW())
 s.l()
 this.aU()},
 N(a){var s,r,q=this,p=null,o=q.d,n=t.lW,m=A.a([new A.iG(B.Cx,"Responsive Design","Almost every new client these days wants a mobile version of their website."),new A.iG(B.CB,"Desktop App Development","Crafting seamless experiences for desktop platforms like Windows, macOS, and Linux users."),new A.iG(B.CA,"Clean code","Especially if you work on code that is read by more than just you, it's very, very useful.")],n),l=A.ao3()
-n=A.a([new A.iG(B.Cu,"Phone","+91 743 602 855"),new A.iG(B.Cw,"Address","Ahmedabad, Gujarat"),new A.iG(B.Cs,"Email","adityarathod1404@gmail.com")],n)
+n=A.a([new A.iG(B.Cu,"Phone","+91 743 602 8855"),new A.iG(B.Cw,"Address","Ahmedabad, Gujarat"),new A.iG(B.Cs,"Email","adityarathod1404@gmail.com")],n)
 s=$.N().bR(18)
 s=A.ch().$1$textStyle(A.ce(p,p,A.an(B.c.aJ(229.5),255,255,255),p,B.e9,p,p,p,p,p,p,s,p,p,B.y,p,p,!0,p,p,p,p,p,p,p,p))
 r=$.N().bR(18)
